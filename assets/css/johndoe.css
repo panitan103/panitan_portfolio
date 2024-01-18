@@ -588,6 +588,7 @@ pre code {
 }
 
 .container-fluid {
+  
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
@@ -11608,6 +11609,8 @@ pre .code {
 }
 
 .about-section {
+  justify-content: center;
+  
   border-bottom: 1px solid #dee2e6;
 }
 
